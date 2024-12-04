@@ -52,7 +52,7 @@ namespace BankApp
             }
             else
             {
-                MessageBox.Show("Błąd podczas wykonywania przelewu");
+                MessageBox.Show("Błąd poczas wykonywania przelewu");
             }
         }
     }
